@@ -3,7 +3,8 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
 
 ## Dependencies
-<ol>Install ThreeJS using npm:
+Install ThreeJS using npm:
+<ol>
 <li>npm install three</li>
 <li>npm install @types/three</li>
 </ol>
